@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @CodeCreatorLab
 - 👀 I’m interested in Web Development , Game Development 
-- 🌱 I’m currently learning HTML CSS , C Programming , python
+- 🚩 I consist skills like C/C++, Web-development, Sql
+- 🌱 I’m currently learning Java, python, React and Mongo
 - 💞️ I’m looking to collaborate on my projects
 - 📫 How to reach me ...
 
